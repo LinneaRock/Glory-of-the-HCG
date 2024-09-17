@@ -8,6 +8,6 @@ Authors: Linnea A. Rock, Bryce Shoup, Joshua A. Ajowele, Félix Brédoire, Isabe
 
 **Code:** Contains .R files to run analyses and make figure for main text and supplementary materials.
 
-**Data:** Contains files with ENSO year designation and raw nitrate concentrations and discharge values from Loch Vale in Colorado, U.S. Data publicly availabe at: U.S. Geological Survey, Baron (Lead PI) JS. 2022. USGS 401733105392404 The Loch Outlet - Loch Vale Daily Discharge and Chemistry Data. https://waterdata.usgs.gov/co/nwis/inventory/?site_no=401733105392404. 
+**Data:** Contains files with raw data, scripts to download data from USGS and Macrosheds. All data are cited within the manuscript.
 
 **Figures:** Contains manuscript figures.
