@@ -1,7 +1,10 @@
 # Watershed responses to climate-change driven disturbances in temperate montane ecosystems 
 
+[![DOI](https://zenodo.org/badge/858515474.svg)](https://zenodo.org/doi/10.5281/zenodo.13770703)
+
 Authors: Linnea A. Rock, Bryce Shoup, Joshua A. Ajowele, Félix Brédoire, Isabella A. Oleksy, Matthew Tetrick, David G. Williams, Sarah M. Collins
 *Linnea and Bryce are co-first authors*
+
 
 ## Folders:
 
