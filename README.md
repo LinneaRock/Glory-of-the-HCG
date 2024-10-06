@@ -1,4 +1,4 @@
-# Watershed responses to climate-change driven disturbances in temperate montane ecosystems 
+# Watershed responses to climate change - driven disturbances in temperate montane ecosystems 
 
 [![DOI](https://zenodo.org/badge/858515474.svg)](https://zenodo.org/doi/10.5281/zenodo.13770703)
 
