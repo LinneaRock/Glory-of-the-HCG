@@ -151,4 +151,3 @@ precip/ndep +
 # plot_layout(guides = 'collect')
 
 ggsave('Figures/LochVale/ndep_precip.png', width = 8.5, height = 6.5, dpi=1200)
-
