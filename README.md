@@ -5,6 +5,8 @@
 Authors: Linnea A. Rock, Bryce Shoup, Joshua A. Ajowele, Félix Brédoire, Isabella A. Oleksy, Matthew Tetrick, David G. Williams, Sarah M. Collins
 *Linnea and Bryce are co-first authors*
 
+https://link.springer.com/article/10.1007/s10021-024-00942-9?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241007&utm_content=10.1007%2Fs10021-024-00942-9
+
 
 ## Folders:
 
